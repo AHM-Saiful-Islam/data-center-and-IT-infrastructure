@@ -4,6 +4,7 @@ Welcome to my IT Support Portfolio. This repo contains project-based documentati
 
 ## 📂 Projects
 - [datacenter-decommissioning](./projects/datacenter-decommissioning/)
+- [RDE switch installations and cable management](./projects/rde-new-devices-installation/)
 
 ## 📜 Certificates
 - IT Engineer. Bachelor's and Master's in Engineering.
