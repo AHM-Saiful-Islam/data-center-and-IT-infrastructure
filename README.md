@@ -1,4 +1,4 @@
-# 🛠️ IT Support Project Portfolio
+# 🛠️ Data Center & IT Infrastructure Documentation
 
 Welcome to my IT Support Portfolio. This repo contains project-based documentation of my work as an IT Support professional, covering infrastructure setup, troubleshooting, automation, and more.
 
